@@ -5,7 +5,7 @@ namespace Classes;
 class LangtonsAnt
 {
     public $grid = [];
-    public $direction = 'north';
+    public $direction = 'west';
     public $position;
     public $log;
 
